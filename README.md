@@ -9,7 +9,7 @@ I'm Youssef, a passionate learner in the field of Full Stack Development. I'm co
 ## Connect with Me
 
 - LinkedIn: [Youssef's LinkedIn Profile](https://github.com/YoussefRais12)
-- Email: [Youssef's email address](ssefy150@gmail.com)
+- Email: [ssefy150@gmail.com]
 
 ### Languages
 
